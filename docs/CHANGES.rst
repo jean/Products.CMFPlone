@@ -9,7 +9,18 @@ Changelog
 4.3.11 (unreleased)
 -------------------
 
-- Nothing changed yet.
+Breaking changes:
+
+- *add item here*
+
+New features:
+
+- Add sort_on field to search controlpanel.
+  [rodfersou]
+
+Bug fixes:
+
+- *add item here*
 
 
 4.3.10 (2016-07-04)

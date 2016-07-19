@@ -19,6 +19,8 @@ New features:
 
 Bug fixes:
 
+- Have more patience in the thememapper robot test.  [maurits]
+
 - Fixed missing keyword in robot tests due to wrong documentation lines.  [maurits]
 
 - Marked two robot tests as unstable, non-critical.

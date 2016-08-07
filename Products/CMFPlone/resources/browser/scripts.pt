@@ -9,3 +9,7 @@
      </tal:wcondcomment
     ></tal:block
 ></tal:scripts>
+<script>
+plone_define = define;
+define = undefined;
+</script>

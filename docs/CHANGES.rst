@@ -9,7 +9,8 @@ Changelog
 4.3.11 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Fix base tag differs from actual URL (fixes `#86`_).
+  [rodfersou]
 
 
 4.3.10 (2016-07-04)
@@ -675,3 +676,4 @@ Fixes:
   [kleist]
 
 .. _`#1041`: https://github.com/plone/Products.CMFPlone/issues/1041
+.. _`#86`: https://github.com/plone/plone.app.layout/issues/86
